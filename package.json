@@ -1,6 +1,5 @@
 {
-  "name": "philogrammer",
-  "homepage": "https://gangsuuu.github.io/earth",
+  "name": "boilerplate",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -29,8 +28,7 @@
   "dependencies": {
     "@vitejs/plugin-react": "^4.0.0",
     "dat.gui": "^0.7.9",
-    "gsap": "^3.12.1",
-    "lil-gui": "^0.18.1",
-    "three": "^0.147.0"
+    "gsap": "^3.12.4",
+    "lil-gui": "^0.18.1"
   }
 }
