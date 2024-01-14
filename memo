@@ -1,3 +1,5 @@
 https://www.northkingdom.com/work
 
 https://www.youtube.com/watch?v=oY-aUckFlWo&t=44s
+
+gsap.ticker -> requestFrame 과 비슷한 속성의 gsap 이벤트 리스너
